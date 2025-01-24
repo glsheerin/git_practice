@@ -1,3 +1,4 @@
 test one two three four five six
 new branch
 added a cool feature
+we fixed the bug
